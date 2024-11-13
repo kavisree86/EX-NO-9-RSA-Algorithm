@@ -1,4 +1,4 @@
-![Screenshot 2024-11-13 184119](https://github.com/user-attachments/assets/68c35f54-97f6-45fa-9e26-ccabde96e96c)# EX-NO-9-RSA-Algorithm
+# EX-NO-9-RSA-Algorithm
 
 ## AIM:
 To Implement RSA Encryption Algorithm in Cryptography
